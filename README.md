@@ -1,6 +1,6 @@
-# time-tracker
-Java (Maven) application for tracking time on the job
+# test-project
+Java (Maven) application for test the job
 
-Time tracker
+Test projectr
 
 Good Night Students!!!
